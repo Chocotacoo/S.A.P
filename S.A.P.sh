@@ -190,7 +190,6 @@ dependencies() {
 	fi
 
 }
-
 ## Download Ngrok
 download_ngrok() {
 	url="$1"
@@ -227,6 +226,7 @@ install_ngrok() {
 			download_ngrok 'https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip'
 		fi
 	fi
+
 
 }
 
