@@ -11,9 +11,8 @@ chmod +x S.A.P.sh
 
 # SCREENSHOT:
 
-x-special/nautilus-clipboard
-copy
-file:///home/jerico/Pictures/Screenshot%20from%202021-08-16%2003-00-48.png
+![Screenshot from 2021-08-16 03-00-48](https://user-images.githubusercontent.com/88471935/130912379-c4021813-82d5-48c5-bc85-f15b26a9bdd8.png)
+
 
 
 
