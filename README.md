@@ -11,7 +11,10 @@ chmod +x S.A.P.sh
 
 # SCREENSHOT:
 
-![Screenshot from 2021-08-16 03-00-48](https://user-images.githubusercontent.com/88471935/130912379-c4021813-82d5-48c5-bc85-f15b26a9bdd8.png)
+
+
+
+![IMG_20210901_160715](https://user-images.githubusercontent.com/88471935/131657806-bcc9e724-911e-44ef-83e7-9550acab0bb4.jpg)
 
 
 
